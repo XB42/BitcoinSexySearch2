@@ -1,0 +1,41 @@
+
+@import url('entry.css');
+.btn-main{
+  border: 2px solid #FF9900;
+  border-radius: 10px;
+  background-color: white;
+}
+
+.btn-main:hover{
+  background-color: #FF9900;
+  color: white;
+}
+
+body{
+  background-color: #ffedd3;
+}
+
+
+.btn-line{
+  background-color: transparent;
+  color: black;
+}
+
+.btn-line:hover{
+  color: #FF9900;
+}
+
+
+
+.btn-line{
+  background-color: #FF9900;
+  color: white;
+  border-radius: 10px;
+  border: none;
+}
+.btn-line:hover{
+  background-color: white;
+  color: #FF9900;
+  border-radius: 10px;
+  border: none;
+}
